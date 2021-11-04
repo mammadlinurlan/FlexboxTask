@@ -26,10 +26,12 @@ body {
     display: flex;
     flex-wrap: wrap;
     width: 1202px;
+    justify-content: space-between;
 
     
     
 }
+
 
 
 
